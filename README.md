@@ -112,3 +112,22 @@ This analysis equips investors with the tools to minimize risks and maximize ret
 A t-test comparing crash periods (2008, 2020) with non-crash periods showed significantly higher volatility during crashes (p<0.05).
 
 - Density plots illustrated these differences, showing increased risk during economic downturns.
+# Key Insights and Recommendations
+
+### Trading Volume Trends:
+
+December stands out as a high-volume month, potentially driven by end-of-year trading activities. Investors may capitalize on liquidity during this time.
+
+### Volatility Insights:
+
+Volatility spikes during market crashes (2008, 2020) and specific months (March, November). Traders should exercise caution and consider hedging strategies during these periods.
+
+### Significant Differences Across Periods:
+
+Stock prices and trading volumes exhibit significant differences over time, influenced by market events and economic conditions. Long-term investors should prioritize stable periods for safer investments.
+
+### Practical Applications:
+
+Insights from this analysis can inform investment strategies, particularly in terms of timing trades to align with stable or high-liquidity periods.
+
+The correlation between trading volume and volatility offers a valuable indicator for risk management.
