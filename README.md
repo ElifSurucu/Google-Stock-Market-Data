@@ -1,6 +1,4 @@
-# Google-Stock-Market-Data
-![image](https://github.com/user-attachments/assets/9e872180-e28e-43f7-8616-dde2c7839d8f)
-
+![Modern Business Trading Investment Instagram Post](https://github.com/user-attachments/assets/adc18c1c-a4f2-465b-86b6-7f0935d474b3)
 
 # Introduction
 
